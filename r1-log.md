@@ -12,3 +12,6 @@ Worked on the back end elements of a javascript calculator. https://replit.com/@
 
 ### R1D3
 Finished the back end elements of a javascript calculator. Need to debug tomorrow. https://replit.com/@JackFriedman3/Calculator#script.js
+
+### R1D4
+Debugged and tested calculator project. Starting something new tomorrow! https://replit.com/@JackFriedman3/Calculator#script.js
