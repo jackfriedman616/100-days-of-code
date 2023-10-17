@@ -29,3 +29,13 @@
 **Link(s) to work**
 1. https://replit.com/@JackFriedman3/Calculator#script.js
 2. https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-javascript-calculator
+
+### Day 4: October 17, Tuesday
+
+**Today's Progress**: Finished debugging my javascript calculator.
+
+**Thoughts** Something new tomorrow!
+
+**Link(s) to work**
+1. https://replit.com/@JackFriedman3/Calculator#script.js
+2. https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-javascript-calculator
