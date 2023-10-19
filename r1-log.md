@@ -18,3 +18,6 @@ Debugged and tested calculator project. Starting something new tomorrow! https:/
 
 ### R1D5
 Began working on a Random Quote machine. Only finished the html so far. https://replit.com/@JackFriedman3/Random-Quote-Machine#index.html
+
+### R1D6
+Finished the javaScript and css code for my random quote machine. The quotes aren't showing up properly though. https://replit.com/@JackFriedman3/Random-Quote-Machine#index.html
