@@ -15,3 +15,6 @@ Finished the back end elements of a javascript calculator. Need to debug tomorro
 
 ### R1D4
 Debugged and tested calculator project. Starting something new tomorrow! https://replit.com/@JackFriedman3/Calculator#script.js
+
+### R1D5
+Began working on a Random Quote machine. Only finished the html so far. https://replit.com/@JackFriedman3/Random-Quote-Machine#index.html
