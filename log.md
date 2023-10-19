@@ -49,3 +49,13 @@
 **Link(s) to work**
 1. https://replit.com/@JackFriedman3/Random-Quote-Machine#index.html
 2. https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine
+
+### Day 6: October 18, Wednesday
+
+**Today's Progress**: Finished coding the css and javaScript files.
+
+**Thoughts** The quotes aren't displaying correctly. Need to fix tomorrow.
+
+**Link(s) to work**
+1. https://replit.com/@JackFriedman3/Random-Quote-Machine#index.html
+2. https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine
