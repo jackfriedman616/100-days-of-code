@@ -59,3 +59,13 @@
 **Link(s) to work**
 1. https://replit.com/@JackFriedman3/Random-Quote-Machine#index.html
 2. https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine
+
+### Day 7: October 20, Friday
+
+**Today's Progress**: Managed to fix all issues with the quotes not displaying properly.
+
+**Thoughts** Not sure why moving my code to codepen fixed it. Something new tomorrow!
+
+**Link(s) to work**
+1. https://codepen.io/jackfriedman616/pen/GRwBMOY
+2. https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine
