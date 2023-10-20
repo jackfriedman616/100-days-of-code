@@ -21,3 +21,6 @@ Began working on a Random Quote machine. Only finished the html so far. https://
 
 ### R1D6
 Finished the javaScript and css code for my random quote machine. The quotes aren't showing up properly though. https://replit.com/@JackFriedman3/Random-Quote-Machine#index.html
+
+### R1D7
+Managed to get the quotes to show properly by moving to codepen instead of replit. Not sure why that fixed it. https://codepen.io/jackfriedman616/pen/GRwBMOY
