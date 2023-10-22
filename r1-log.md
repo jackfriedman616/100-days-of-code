@@ -27,3 +27,6 @@ Managed to get the quotes to show properly by moving to codepen instead of repli
 
 ### R1D8
 Started (and finished) the free code camp markdown previewer project. https://codepen.io/jackfriedman616/pen/GRwLvgO
+
+### R1D9
+Started working on the basic informational site node.js project from odin project. https://replit.com/@JackFriedman3/OdinProjInfoSite#index.js
