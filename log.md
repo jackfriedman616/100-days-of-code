@@ -69,3 +69,13 @@
 **Link(s) to work**
 1. https://codepen.io/jackfriedman616/pen/GRwBMOY
 2. https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine
+
+### Day 8: October 21, Saturday
+
+**Today's Progress**: Started and finished the free code camp markdown previewer project.
+
+**Thoughts** Wanted to do a node.js project from odin project but had trouble starting from scratch.
+
+**Link(s) to work**
+1. https://codepen.io/jackfriedman616/pen/GRwLvgO
+2. https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-markdown-previewer
