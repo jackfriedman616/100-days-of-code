@@ -24,3 +24,6 @@ Finished the javaScript and css code for my random quote machine. The quotes are
 
 ### R1D7
 Managed to get the quotes to show properly by moving to codepen instead of replit. Not sure why that fixed it. https://codepen.io/jackfriedman616/pen/GRwBMOY
+
+### R1D8
+Started (and finished) the free code camp markdown previewer project. https://codepen.io/jackfriedman616/pen/GRwLvgO
