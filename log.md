@@ -79,3 +79,13 @@
 **Link(s) to work**
 1. https://codepen.io/jackfriedman616/pen/GRwLvgO
 2. https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-markdown-previewer
+
+### Day 9: October 22, Sunday
+
+**Today's Progress**: Started working on the basic informational site node.js project.
+
+**Thoughts** Finished index.html and started about.html. Still working on making the urls take you to the different pages.
+
+**Link(s) to work**
+1. https://replit.com/@JackFriedman3/OdinProjInfoSite#index.js
+2. https://www.theodinproject.com/lessons/nodejs-basic-informational-site
