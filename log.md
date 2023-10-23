@@ -89,3 +89,13 @@
 **Link(s) to work**
 1. https://replit.com/@JackFriedman3/OdinProjInfoSite#index.js
 2. https://www.theodinproject.com/lessons/nodejs-basic-informational-site
+
+### Day 10: October 23, Monday
+
+**Today's Progress**: Worked on the index.js file of my basic info site project.
+
+**Thoughts** Haven't gotten the urls to connect to the different files yet.
+
+**Link(s) to work**
+1. https://replit.com/@JackFriedman3/OdinProjInfoSite#index.js
+2. https://www.theodinproject.com/lessons/nodejs-basic-informational-site
