@@ -30,3 +30,6 @@ Started (and finished) the free code camp markdown previewer project. https://co
 
 ### R1D9
 Started working on the basic informational site node.js project from odin project. https://replit.com/@JackFriedman3/OdinProjInfoSite#index.js
+
+### R1D10
+Worked on my node.js server file for my basic informational site. https://replit.com/@JackFriedman3/OdinProjInfoSite#index.js
