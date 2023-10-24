@@ -33,3 +33,6 @@ Started working on the basic informational site node.js project from odin projec
 
 ### R1D10
 Worked on my node.js server file for my basic informational site. https://replit.com/@JackFriedman3/OdinProjInfoSite#index.js
+
+### R1D10
+Wrote my contact-me.html and 404.html files and continued working on index.js. https://replit.com/@JackFriedman3/OdinProjInfoSite#index.js
