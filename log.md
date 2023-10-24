@@ -99,3 +99,13 @@
 **Link(s) to work**
 1. https://replit.com/@JackFriedman3/OdinProjInfoSite#index.js
 2. https://www.theodinproject.com/lessons/nodejs-basic-informational-site
+
+### Day 11: October 24, Tuesday
+
+**Today's Progress**: Wrote the contact-me.html and 404.html files and continued working on index.js.
+
+**Thoughts** Haven't gotten the urls to connect to the different files yet.
+
+**Link(s) to work**
+1. https://replit.com/@JackFriedman3/OdinProjInfoSite#index.js
+2. https://www.theodinproject.com/lessons/nodejs-basic-informational-site
