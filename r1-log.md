@@ -36,3 +36,6 @@ Worked on my node.js server file for my basic informational site. https://replit
 
 ### R1D11
 Wrote my contact-me.html and 404.html files and continued working on index.js. https://replit.com/@JackFriedman3/OdinProjInfoSite#index.js
+
+### R1D12
+Continued troubleshooting index.js. https://replit.com/@JackFriedman3/OdinProjInfoSite#index.js
