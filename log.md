@@ -109,3 +109,13 @@
 **Link(s) to work**
 1. https://replit.com/@JackFriedman3/OdinProjInfoSite#index.js
 2. https://www.theodinproject.com/lessons/nodejs-basic-informational-site
+
+### Day 12: October 25, Wednesday
+
+**Today's Progress**: Continued troubleshooting index.js.
+
+**Thoughts** Going to look for more resources tomorrow.
+
+**Link(s) to work**
+1. https://replit.com/@JackFriedman3/OdinProjInfoSite#index.js
+2. https://www.theodinproject.com/lessons/nodejs-basic-informational-site
