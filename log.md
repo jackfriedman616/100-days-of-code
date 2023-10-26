@@ -119,3 +119,13 @@
 **Link(s) to work**
 1. https://replit.com/@JackFriedman3/OdinProjInfoSite#index.js
 2. https://www.theodinproject.com/lessons/nodejs-basic-informational-site
+
+### Day 13: October 26, Thursday
+
+**Today's Progress**: Made a Drum Machine!
+
+**Thoughts** Something new tomorrow.
+
+**Link(s) to work**
+1. https://codepen.io/jackfriedman616/pen/wvQZpmR
+2. https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-drum-machine
