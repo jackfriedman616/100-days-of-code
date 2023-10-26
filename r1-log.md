@@ -39,3 +39,7 @@ Wrote my contact-me.html and 404.html files and continued working on index.js. h
 
 ### R1D12
 Continued troubleshooting index.js. https://replit.com/@JackFriedman3/OdinProjInfoSite#index.js
+
+### R1D13
+Made a drum machine! https://codepen.io/jackfriedman616/pen/wvQZpmR
+
