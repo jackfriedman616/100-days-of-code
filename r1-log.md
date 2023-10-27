@@ -43,3 +43,5 @@ Continued troubleshooting index.js. https://replit.com/@JackFriedman3/OdinProjIn
 ### R1D13
 Made a drum machine! https://codepen.io/jackfriedman616/pen/wvQZpmR
 
+### R1D14
+Started working on a react shopping cart project. https://replit.com/@JackFriedman3/Shopping-cart#index.html
