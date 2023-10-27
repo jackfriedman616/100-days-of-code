@@ -129,3 +129,13 @@
 **Link(s) to work**
 1. https://codepen.io/jackfriedman616/pen/wvQZpmR
 2. https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-drum-machine
+
+### Day 14: October 27, Friday
+
+**Today's Progress**: Started working on a react shopping cart project.
+
+**Thoughts** Continue working on index.html tomorrow.
+
+**Link(s) to work**
+1. https://replit.com/@JackFriedman3/Shopping-cart#index.html
+2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
