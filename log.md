@@ -144,7 +144,7 @@
 
 **Today's Progress**: Worked on react router for shopping cart project.
 
-**Thoughts** Continue working on react router.
+**Thoughts** Continue working on react router tomorrow.
 
 **Link(s) to work**
 1. https://replit.com/@JackFriedman3/Shopping-cart#index.html
