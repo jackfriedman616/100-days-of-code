@@ -45,3 +45,6 @@ Made a drum machine! https://codepen.io/jackfriedman616/pen/wvQZpmR
 
 ### R1D14
 Started working on a react shopping cart project. https://replit.com/@JackFriedman3/Shopping-cart#index.html
+
+### R1D15
+Worked on making my shopping cart project into 2 web pages using a react router. https://replit.com/@JackFriedman3/Shopping-cart#index.html
