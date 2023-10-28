@@ -139,3 +139,13 @@
 **Link(s) to work**
 1. https://replit.com/@JackFriedman3/Shopping-cart#index.html
 2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
+
+### Day 15: October 28, Saturday
+
+**Today's Progress**: Worked on react router for shopping cart project.
+
+**Thoughts** Continue working on react router.
+
+**Link(s) to work**
+1. https://replit.com/@JackFriedman3/Shopping-cart#index.html
+2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
