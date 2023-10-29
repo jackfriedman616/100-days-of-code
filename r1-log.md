@@ -48,3 +48,6 @@ Started working on a react shopping cart project. https://replit.com/@JackFriedm
 
 ### R1D15
 Worked on making my shopping cart project into 2 web pages using a react router. https://replit.com/@JackFriedman3/Shopping-cart#index.html
+
+### R1D16
+Continued exploring how to make a react router. https://replit.com/@JackFriedman3/Shopping-cart#index.html
