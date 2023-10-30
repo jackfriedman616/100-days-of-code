@@ -51,3 +51,6 @@ Worked on making my shopping cart project into 2 web pages using a react router.
 
 ### R1D16
 Continued exploring how to make a react router. https://replit.com/@JackFriedman3/Shopping-cart#index.html
+
+### R1D17
+Finished working on router.jsx. https://replit.com/@JackFriedman3/Shopping-cart#index.html
