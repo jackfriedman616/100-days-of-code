@@ -159,3 +159,13 @@
 **Link(s) to work**
 1. https://replit.com/@JackFriedman3/Shopping-cart#main.jsx
 2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
+
+### Day 17: October 30, Monday
+
+**Today's Progress**: Finished router.jsx
+
+**Thoughts** Start making cart page tomorrow!
+
+**Link(s) to work**
+1. https://replit.com/@JackFriedman3/Shopping-cart#main.jsx
+2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
