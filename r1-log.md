@@ -54,3 +54,6 @@ Continued exploring how to make a react router. https://replit.com/@JackFriedman
 
 ### R1D17
 Finished working on router.jsx. https://replit.com/@JackFriedman3/Shopping-cart#index.html
+
+### R1D18
+Started working on cart.html https://replit.com/@JackFriedman3/Shopping-cart#cart.html
