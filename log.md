@@ -169,3 +169,13 @@
 **Link(s) to work**
 1. https://replit.com/@JackFriedman3/Shopping-cart#main.jsx
 2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
+
+### Day 18: October 31, Tuesday
+
+**Today's Progress**: Started cart.html
+
+**Thoughts** Continue working on cart tomorrow.
+
+**Link(s) to work**
+1. https://replit.com/@JackFriedman3/Shopping-cart#cart.html
+2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
