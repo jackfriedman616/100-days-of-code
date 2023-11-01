@@ -57,3 +57,6 @@ Finished working on router.jsx. https://replit.com/@JackFriedman3/Shopping-cart#
 
 ### R1D18
 Started working on cart.html https://replit.com/@JackFriedman3/Shopping-cart#cart.html
+
+### R1D19
+Continued working on cart.html https://replit.com/@JackFriedman3/Shopping-cart#cart.html
