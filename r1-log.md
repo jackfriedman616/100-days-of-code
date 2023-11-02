@@ -60,3 +60,6 @@ Started working on cart.html https://replit.com/@JackFriedman3/Shopping-cart#car
 
 ### R1D19
 Continued working on cart.html https://replit.com/@JackFriedman3/Shopping-cart#cart.html
+
+### R1D20
+Started making the component files https://replit.com/@JackFriedman3/Shopping-Cart#src/components/Checkout.js
