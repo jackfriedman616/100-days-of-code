@@ -189,3 +189,14 @@
 **Link(s) to work**
 1. https://replit.com/@JackFriedman3/Shopping-cart#cart.html
 2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
+
+
+### Day 20: November 2, Thursday
+
+**Today's Progress**: Started making the component files
+
+**Thoughts** Continue working on components and styles tomorrow
+
+**Link(s) to work**
+1. https://replit.com/@JackFriedman3/Shopping-Cart#src/components/Checkout.js
+2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
