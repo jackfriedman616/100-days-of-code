@@ -200,3 +200,13 @@
 **Link(s) to work**
 1. https://replit.com/@JackFriedman3/Shopping-Cart#src/components/Checkout.js
 2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
+
+### Day 21: November 3, Friday
+
+**Today's Progress**: Worked on ItemDetail.js
+
+**Thoughts** Finish ItemDetail.js
+
+**Link(s) to work**
+1. https://replit.com/@JackFriedman3/Shopping-Cart#src/components/ItemDetail.js
+2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
