@@ -66,3 +66,6 @@ Started making the component files https://replit.com/@JackFriedman3/Shopping-Ca
 
 ### R1D21
 Worked on ItemDetail.js https://replit.com/@JackFriedman3/Shopping-Cart#src/components/ItemDetail.js
+
+### R1D21
+Finished ItemDetail.js https://replit.com/@JackFriedman3/Shopping-Cart#src/components/ItemDetail.js
