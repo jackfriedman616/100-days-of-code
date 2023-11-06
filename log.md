@@ -230,3 +230,13 @@
 **Link(s) to work**
 1. https://replit.com/@JackFriedman3/Shopping-Cart#src/components/Nav.js
 2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
+
+### Day 24: November 6, Monnday
+
+**Today's Progress**: Finished the nav bar file and started on Shop.js
+
+**Thoughts** Finish shop.js/work on style sheets tomorrow.
+
+**Link(s) to work**
+1. https://replit.com/@JackFriedman3/Shopping-Cart#src/components/Shop.js
+2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
