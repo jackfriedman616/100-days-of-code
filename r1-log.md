@@ -72,3 +72,6 @@ Finished ItemDetail.js https://replit.com/@JackFriedman3/Shopping-Cart#src/compo
 
 ### R1D23
 Wrote about half of Nav.js https://replit.com/@JackFriedman3/Shopping-Cart#src/components/Nav.js
+
+### R1D24
+Finished Nav.js and started Shop.js https://replit.com/@JackFriedman3/Shopping-Cart#src/components/Shop.js
