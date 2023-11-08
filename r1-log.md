@@ -78,3 +78,6 @@ Finished Nav.js and started Shop.js https://replit.com/@JackFriedman3/Shopping-C
 
 ### R1D25
 Finished Shop.js https://replit.com/@JackFriedman3/Shopping-Cart#src/components/Shop.js
+
+### R1D26
+Wrote several css files for the javascript components. https://replit.com/@JackFriedman3/Shopping-Cart#src/styles/
