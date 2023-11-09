@@ -260,3 +260,13 @@
 **Link(s) to work**
 1. https://replit.com/@JackFriedman3/Shopping-Cart#src/styles/
 2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
+
+### Day 27: November 9, Thursday
+
+**Today's Progress**: Wrote several css files to go with the javascript components
+
+**Thoughts** Finish more css files tomorrow.
+
+**Link(s) to work**
+1. https://replit.com/@JackFriedman3/Shopping-Cart#src/styles/nav.css
+2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
