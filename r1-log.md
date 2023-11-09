@@ -81,3 +81,6 @@ Finished Shop.js https://replit.com/@JackFriedman3/Shopping-Cart#src/components/
 
 ### R1D26
 Wrote several css files for the javascript components. https://replit.com/@JackFriedman3/Shopping-Cart#src/styles/
+
+### R1D27
+worked on more css files. https://replit.com/@JackFriedman3/Shopping-Cart#src/styles/nav.css
