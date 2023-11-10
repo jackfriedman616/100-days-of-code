@@ -84,3 +84,6 @@ Wrote several css files for the javascript components. https://replit.com/@JackF
 
 ### R1D27
 worked on more css files. https://replit.com/@JackFriedman3/Shopping-Cart#src/styles/nav.css
+
+### R1D28
+Finished the last files for the styles folder. https://replit.com/@JackFriedman3/Shopping-Cart#src/styles/shop.css
