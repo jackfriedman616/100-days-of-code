@@ -87,3 +87,6 @@ worked on more css files. https://replit.com/@JackFriedman3/Shopping-Cart#src/st
 
 ### R1D28
 Finished the last files for the styles folder. https://replit.com/@JackFriedman3/Shopping-Cart#src/styles/shop.css
+
+### R1D29
+Wrote some of the html and json files. https://replit.com/@JackFriedman3/Shopping-Cart#public/manifest.json
