@@ -90,3 +90,6 @@ Finished the last files for the styles folder. https://replit.com/@JackFriedman3
 
 ### R1D29
 Wrote some of the html and json files. https://replit.com/@JackFriedman3/Shopping-Cart#public/manifest.json
+
+### R1D30
+Started writing the product info cards. https://replit.com/@JackFriedman3/Shopping-Cart#public/products.json
