@@ -290,3 +290,13 @@
 **Link(s) to work**
 1. https://replit.com/@JackFriedman3/Shopping-Cart#public/manifest.json
 2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
+
+### Day 30: November 12, Sunday
+
+**Today's Progress**: Started writing some of the product info cards.
+
+**Thoughts** Finish products.json tomorrow.
+
+**Link(s) to work**
+1. https://replit.com/@JackFriedman3/Shopping-Cart#public/products.json
+2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
