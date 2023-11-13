@@ -300,3 +300,13 @@
 **Link(s) to work**
 1. https://replit.com/@JackFriedman3/Shopping-Cart#public/products.json
 2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
+
+### Day 31: November 13, Monday
+
+**Today's Progress**: Finished the last couple files of my shopping cart!
+
+**Thoughts** Testing tomorrow!
+
+**Link(s) to work**
+1. https://replit.com/@JackFriedman3/Shopping-Cart#src/App.test.js
+2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
