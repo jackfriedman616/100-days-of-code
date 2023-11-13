@@ -93,3 +93,6 @@ Wrote some of the html and json files. https://replit.com/@JackFriedman3/Shoppin
 
 ### R1D30
 Started writing the product info cards. https://replit.com/@JackFriedman3/Shopping-Cart#public/products.json
+
+### R1D31
+Finished making my shopping cart project. https://replit.com/@JackFriedman3/Shopping-Cart#src/App.test.js
