@@ -96,3 +96,6 @@ Started writing the product info cards. https://replit.com/@JackFriedman3/Shoppi
 
 ### R1D31
 Finished making my shopping cart project. https://replit.com/@JackFriedman3/Shopping-Cart#src/App.test.js
+
+### R1D32
+Worked on learning how to bootstrap with create react app. https://replit.com/@JackFriedman3/Shopping-Cart#src/App.test.js
