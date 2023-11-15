@@ -99,3 +99,6 @@ Finished making my shopping cart project. https://replit.com/@JackFriedman3/Shop
 
 ### R1D32
 Worked on learning how to bootstrap with create react app. https://replit.com/@JackFriedman3/Shopping-Cart#src/App.test.js
+
+### R1D33
+Worked on learning how to bootstrap with create react app. https://replit.com/@JackFriedman3/Shopping-Cart#src/App.test.js
