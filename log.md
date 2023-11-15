@@ -320,3 +320,13 @@
 **Link(s) to work**
 1. https://replit.com/@JackFriedman3/Shopping-Cart#src/App.test.js
 2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
+
+### Day 33: November 15, Wednesday
+
+**Today's Progress**: Worked on bootstrapping my shopping cart using create react app
+
+**Thoughts** Testing tomorrow!
+
+**Link(s) to work**
+1. https://replit.com/@JackFriedman3/Shopping-Cart#src/App.test.js
+2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
