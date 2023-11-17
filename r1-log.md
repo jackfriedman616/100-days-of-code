@@ -102,3 +102,6 @@ Worked on learning how to bootstrap with create react app. https://replit.com/@J
 
 ### R1D33
 Worked on learning how to bootstrap with create react app. https://replit.com/@JackFriedman3/Shopping-Cart#src/App.test.js
+
+### R1D34
+Troubleshooting various npm errors that came up when trying to run the shopping cart program. https://replit.com/@JackFriedman3/Shopping-Cart#src/App.test.js
