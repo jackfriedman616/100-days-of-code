@@ -330,3 +330,13 @@
 **Link(s) to work**
 1. https://replit.com/@JackFriedman3/Shopping-Cart#src/App.test.js
 2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
+
+### Day 34: November 17, Friday
+
+**Today's Progress**: Troubleshooting various npm errors encountered when trying to run the shopping cart project.
+
+**Thoughts** I don't understand why the solutions I've found online don't work.
+
+**Link(s) to work**
+1. https://replit.com/@JackFriedman3/Shopping-Cart-bootstrap#index.mjs
+2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
