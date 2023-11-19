@@ -340,3 +340,13 @@
 **Link(s) to work**
 1. https://replit.com/@JackFriedman3/Shopping-Cart-bootstrap#index.mjs
 2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
+
+### Day 35: November 19, Sunday
+
+**Today's Progress**: Continued troubleshooting node errors.
+
+**Thoughts** I am very frustrated by the pace of my progress.
+
+**Link(s) to work**
+1. https://replit.com/@JackFriedman3/Shopping-Cart-bootstrap#babel.config.js
+2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
