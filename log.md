@@ -350,3 +350,13 @@
 **Link(s) to work**
 1. https://replit.com/@JackFriedman3/Shopping-Cart-bootstrap#babel.config.js
 2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
+
+### Day 36: November 20, Monday
+
+**Today's Progress**: Continued troubleshooting node errors.
+
+**Thoughts** Tomorrow I will move my code from replit to another site to test if the issue is the environment.
+
+**Link(s) to work**
+1. https://replit.com/@JackFriedman3/Shopping-Cart-bootstrap#babel.config.js
+2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
