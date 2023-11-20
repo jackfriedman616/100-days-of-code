@@ -108,3 +108,6 @@ Troubleshooting various npm errors that came up when trying to run the shopping 
 
 ### R1D35
 Troubleshooting various npm errors that came up when trying to run the shopping cart program. https://replit.com/@JackFriedman3/Shopping-Cart-bootstrap#babel.config.js
+
+### R1D36
+Troubleshooting various npm errors that came up when trying to run the shopping cart program. https://replit.com/@JackFriedman3/Shopping-Cart-bootstrap#babel.config.js
