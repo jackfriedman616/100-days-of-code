@@ -370,3 +370,13 @@
 **Link(s) to work**
 1. https://replit.com/@JackFriedman3/Shopping-Cart-bootstrap#package.json
 2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
+
+### Day 38: November 23, Thursday
+
+**Today's Progress**: Fixed babel config and package files
+
+**Thoughts** Need to fix JSX errors
+
+**Link(s) to work**
+1. https://replit.com/@JackFriedman3/Shopping-Cart-bootstrap#package.json
+2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
