@@ -117,3 +117,6 @@ Troubleshooting various npm errors that came up when trying to run the shopping 
 
 ### R1D38
 Fixed the babel config and package files of my shopping cart. Still having issues with the JSX. https://replit.com/@JackFriedman3/Shopping-Cart-bootstrap#package.json
+
+### R1D39
+Began transpiling various files causing jsx errors using babel https://replit.com/@JackFriedman3/Shopping-Cart-bootstrap#transpiled.js
