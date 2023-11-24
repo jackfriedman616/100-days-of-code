@@ -380,3 +380,13 @@
 **Link(s) to work**
 1. https://replit.com/@JackFriedman3/Shopping-Cart-bootstrap#package.json
 2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
+
+### Day 39: November 24, Friday
+
+**Today's Progress**: Began transpiling JSX code
+
+**Thoughts** Continue transpiling any JSX still causing errors
+
+**Link(s) to work**
+1. https://replit.com/@JackFriedman3/Shopping-Cart-bootstrap#transpiled.js
+2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
