@@ -120,3 +120,6 @@ Fixed the babel config and package files of my shopping cart. Still having issue
 
 ### R1D39
 Began transpiling various files causing jsx errors using babel https://replit.com/@JackFriedman3/Shopping-Cart-bootstrap#transpiled.js
+
+### R1D40
+Fixed errors caused by forcing code to manually transpile. https://replit.com/@JackFriedman3/Shopping-Cart-bootstrap#appTranspiled.js
