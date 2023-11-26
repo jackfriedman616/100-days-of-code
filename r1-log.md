@@ -123,3 +123,6 @@ Began transpiling various files causing jsx errors using babel https://replit.co
 
 ### R1D40
 Fixed errors caused by forcing code to manually transpile. https://replit.com/@JackFriedman3/Shopping-Cart-bootstrap#appTranspiled.js
+
+### R1D41
+Fixed errors caused by forcing code to manually transpile. https://replit.com/@JackFriedman3/Shopping-Cart-bootstrap#appTranspiled.js
