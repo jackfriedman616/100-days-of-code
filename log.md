@@ -410,3 +410,13 @@
 **Link(s) to work**
 1. https://replit.com/@JackFriedman3/Shopping-Cart-bootstrap#appTranspiled.js
 2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
+
+### Day 42: November 27, Monday
+
+**Today's Progress**: Continued transpiling code to fix JSX errors
+
+**Thoughts** Apparently using create react app would take care of the JSX for me but I would have to start over.
+
+**Link(s) to work**
+1. https://replit.com/@JackFriedman3/Shopping-Cart-bootstrap#footerTranspiled.js
+2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
