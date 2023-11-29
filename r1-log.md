@@ -129,3 +129,6 @@ Fixed errors caused by forcing code to manually transpile. https://replit.com/@J
 
 ### R1D42
 Continued transpiling JSX code into Javascript https://replit.com/@JackFriedman3/Shopping-Cart-bootstrap#footerTranspiled.js
+
+### R1D43
+Continued transpiling JSX code into Javascript https://replit.com/@JackFriedman3/Shopping-Cart-bootstrap#transpiled.js
