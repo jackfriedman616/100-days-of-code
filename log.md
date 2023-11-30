@@ -430,3 +430,13 @@
 **Link(s) to work**
 1. https://replit.com/@JackFriedman3/Shopping-Cart-bootstrap#transpiled.js
 2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
+
+### Day 44: November 30, Thursday
+
+**Today's Progress**: Reworked my shopping cart to be bootstrapped with create-react-app to solve JSX errors
+
+**Thoughts** I'm now getting errors saying that react-router-dom is missing from my node modules so I need to deal with that tomorrow.
+
+**Link(s) to work**
+1. https://github.com/jackfriedman616/shopping-cart
+2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
