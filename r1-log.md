@@ -132,3 +132,6 @@ Continued transpiling JSX code into Javascript https://replit.com/@JackFriedman3
 
 ### R1D43
 Continued transpiling JSX code into Javascript https://replit.com/@JackFriedman3/Shopping-Cart-bootstrap#transpiled.js
+
+### R1D44
+Decided to restart with create-react-app to solve the JSX errors, need to figure out how to make react-router-dom node module work. https://github.com/jackfriedman616/shopping-cart
