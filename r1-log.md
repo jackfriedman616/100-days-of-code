@@ -135,3 +135,6 @@ Continued transpiling JSX code into Javascript https://replit.com/@JackFriedman3
 
 ### R1D44
 Decided to restart with create-react-app to solve the JSX errors, need to figure out how to make react-router-dom node module work. https://github.com/jackfriedman616/shopping-cart
+
+### R1D45
+Installed react-router-dom, worked on creating a webpack config/fallback for path-browserify with mixed results. https://github.com/jackfriedman616/shopping-cart
