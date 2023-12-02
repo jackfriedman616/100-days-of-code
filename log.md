@@ -441,11 +441,21 @@
 1. https://github.com/jackfriedman616/shopping-cart
 2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
 
-### Day 45: November 31, Friday
+### Day 45: December 1, Friday
 
 **Today's Progress**: Managed to fix react-router-dom errors and started working on errors with path-browserify.
 
 **Thoughts** When I try to compile my code, there are only about 7 error messages left to deal with including multiple ones for path-browserify.
+
+**Link(s) to work**
+1. https://github.com/jackfriedman616/shopping-cart/blob/master/webpack.config.js
+2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
+
+### Day 46: December 2, Friday
+
+**Today's Progress**: Continued working on webpack.config.js to try and solve the remaining errors.
+
+**Thoughts** Didn't have a lot of time to work on it today.
 
 **Link(s) to work**
 1. https://github.com/jackfriedman616/shopping-cart/blob/master/webpack.config.js
