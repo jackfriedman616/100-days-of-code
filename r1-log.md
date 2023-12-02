@@ -138,3 +138,6 @@ Decided to restart with create-react-app to solve the JSX errors, need to figure
 
 ### R1D45
 Installed react-router-dom, worked on creating a webpack config/fallback for path-browserify with mixed results. https://github.com/jackfriedman616/shopping-cart
+
+### R1D46
+Continued working on creating a webpack config/fallback for path-browserify with mixed results. https://github.com/jackfriedman616/shopping-cart/blob/master/webpack.config.js
