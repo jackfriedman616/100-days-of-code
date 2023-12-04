@@ -460,3 +460,13 @@
 **Link(s) to work**
 1. https://github.com/jackfriedman616/shopping-cart/blob/master/webpack.config.js
 2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
+
+### Day 47: December 4, Monday
+
+**Today's Progress**: Finally finished my shopping cart project!!!
+
+**Thoughts** Turns out there was another file named webpack.config.js buried in my node modules folder that I needed to change.
+
+**Link(s) to work**
+1. https://github.com/jackfriedman616/shopping-cart/blob/master/
+2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
