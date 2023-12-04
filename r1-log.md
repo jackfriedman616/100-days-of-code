@@ -141,3 +141,6 @@ Installed react-router-dom, worked on creating a webpack config/fallback for pat
 
 ### R1D46
 Continued working on creating a webpack config/fallback for path-browserify with mixed results. https://github.com/jackfriedman616/shopping-cart/blob/master/webpack.config.js
+
+### R1D47
+Finally managed to get my shopping cart webpage working!!! https://github.com/cdevelopment010/shopping-cart/blob/main/
