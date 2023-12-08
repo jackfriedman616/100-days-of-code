@@ -470,3 +470,13 @@
 **Link(s) to work**
 1. https://github.com/jackfriedman616/shopping-cart/blob/master/
 2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
+
+### Day 48: December 7, Thursday
+
+**Today's Progress**: Fixed the last couple issues with my shopping cart.
+
+**Thoughts** Something new tomorrow!
+
+**Link(s) to work**
+1. https://github.com/jackfriedman616/shopping-cart/blob/master/src/styles/home.css
+2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
