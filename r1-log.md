@@ -144,3 +144,6 @@ Continued working on creating a webpack config/fallback for path-browserify with
 
 ### R1D47
 Finally managed to get my shopping cart webpage working!!! https://github.com/cdevelopment010/shopping-cart/blob/main/
+
+### R1D48
+Fixed some final issues with the background of the home page and changed the cart total to $ instead of pounds. https://github.com/jackfriedman616/shopping-cart/blob/master/src/styles/home.css
