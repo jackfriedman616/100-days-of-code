@@ -480,3 +480,13 @@
 **Link(s) to work**
 1. https://github.com/jackfriedman616/shopping-cart/blob/master/src/styles/home.css
 2. https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart
+
+### Day 49: December 9, Saturday
+
+**Today's Progress**: Started my new project, an mtg card gallery (and maybe playtest environment) using mongoDB and react.
+
+**Thoughts** I likely won't be able to include every card so the plan is to only do those from the past year for now.
+
+**Link(s) to work**
+1. https://github.com/jackfriedman616/MTG-Mongoose/blob/main/myApp.js
+2. https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/create-many-records-with-model-create
