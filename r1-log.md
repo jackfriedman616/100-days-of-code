@@ -147,3 +147,6 @@ Finally managed to get my shopping cart webpage working!!! https://github.com/cd
 
 ### R1D48
 Fixed some final issues with the background of the home page and changed the cart total to $ instead of pounds. https://github.com/jackfriedman616/shopping-cart/blob/master/src/styles/home.css
+
+### R1D49
+Started a new project, making an mtg card gallery using mongoDB! https://github.com/jackfriedman616/MTG-Mongoose/blob/main/myApp.js
