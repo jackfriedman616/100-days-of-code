@@ -490,3 +490,13 @@
 **Link(s) to work**
 1. https://github.com/jackfriedman616/MTG-Mongoose/blob/main/myApp.js
 2. https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/create-many-records-with-model-create
+
+### Day 50: December 11, Monday
+
+**Today's Progress**: Worked on entering cards into the database, including having to adjust my schema to accomodate double-face cards.
+
+**Thoughts** I'm not sure I love the way I incorporated double-face cards. I need to see how it shows up when searching.
+
+**Link(s) to work**
+1. https://github.com/jackfriedman616/MTG-Mongoose/blob/main/myApp.js
+2. https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/create-many-records-with-model-create
