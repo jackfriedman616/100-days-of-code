@@ -500,3 +500,14 @@
 **Link(s) to work**
 1. https://github.com/jackfriedman616/MTG-Mongoose/blob/main/myApp.js
 2. https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/create-many-records-with-model-create
+
+
+### Day 51: December 12, Tuesday
+
+**Today's Progress**: Worked on entering cards into the database.
+
+**Thoughts** I think I should change my goal to just trying to have the 291 cards from the newest release rather than trying to include the 2,700 cards that make up the smallest format.
+
+**Link(s) to work**
+1. https://github.com/jackfriedman616/MTG-Mongoose/blob/main/myApp.js
+2. https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/create-many-records-with-model-create
