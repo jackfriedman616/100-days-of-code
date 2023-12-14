@@ -511,3 +511,14 @@
 **Link(s) to work**
 1. https://github.com/jackfriedman616/MTG-Mongoose/blob/main/myApp.js
 2. https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/create-many-records-with-model-create
+
+
+### Day 52: December 14, Thursday
+
+**Today's Progress**: Worked on entering cards into the database. Forked my environment to make a branch with only cards from the most recent expansion.
+
+**Thoughts** By forking my environment, I won't lose the progress I made on cards that aren't from the most recent expansion.
+
+**Link(s) to work**
+1. https://github.com/jackfriedman616/MTG-Mongoose/blob/LCI-only/myApp.js
+2. https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/create-many-records-with-model-create
