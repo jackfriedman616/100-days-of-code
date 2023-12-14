@@ -156,3 +156,6 @@ Worked on entering cards into my database, which included reworking my schema to
 
 ### R1D51
 Worked on entering more cards into my database. https://github.com/jackfriedman616/MTG-Mongoose/blob/main/myApp.js
+
+### R1D52
+Worked on entering more cards into my database. Forked my environment to make a new one with only cards from the most recent expansion. https://github.com/jackfriedman616/MTG-Mongoose/blob/LCI-only/myApp.js
