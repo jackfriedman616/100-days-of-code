@@ -162,3 +162,6 @@ Worked on entering more cards into my database. Forked my environment to make a 
 
 ### R1D53
 Worked on entering more cards into my database. https://github.com/jackfriedman616/MTG-Mongoose/blob/LCI-only/myApp.js
+
+### R1D54
+Worked on entering more cards into my database. https://github.com/jackfriedman616/MTG-Mongoose/blob/LCI-only/myApp.js
