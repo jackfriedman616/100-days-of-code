@@ -544,3 +544,13 @@
 **Link(s) to work**
 1. https://github.com/jackfriedman616/MTG-Mongoose/blob/LCI-only/myApp.js
 2. https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/create-many-records-with-model-create
+
+### Day 55: December 19, Tuesday
+
+**Today's Progress**: Wrote function to search for cards by name, mana value, mana cost, super type, card type, subtype, and rarity.
+
+**Thoughts** I'm not done adding cards, but I wanted to start working toward actually being able to add cards to decks and possibly storing decklists, with the potential to add functionality for shuffling, drawing and other tools needed for playtesting.
+
+**Link(s) to work**
+1. https://github.com/jackfriedman616/MTG-Mongoose/blob/LCI-only/myApp.js
+2. https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/create-many-records-with-model-create
