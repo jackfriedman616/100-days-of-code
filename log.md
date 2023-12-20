@@ -554,3 +554,14 @@
 **Link(s) to work**
 1. https://github.com/jackfriedman616/MTG-Mongoose/blob/LCI-only/myApp.js
 2. https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/create-many-records-with-model-create
+
+### Day 56: December 20, Wednesday
+
+**Today's Progress**: Started working on using some of the code I wrote for my shopping cart project to make a deckbuilding tool using my mongoose MTG card gallery.
+
+**Thoughts** I'm not sure if I will be able to use my mongoose database for this without react causing problems but I want to try it, if it turns out I can't I will just use a JSON file like I did before.
+
+**Link(s) to work**
+1. https://github.com/jackfriedman616/MTG-Mongoose-React-Deckbuilder
+2. https://github.com/jackfriedman616/shopping-cart
+3. https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/create-many-records-with-model-create
