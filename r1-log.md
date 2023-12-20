@@ -168,3 +168,6 @@ Worked on entering more cards into my database. https://github.com/jackfriedman6
 
 ### R1D55
 Wrote functions to search cards by some of the properties. https://github.com/jackfriedman616/MTG-Mongoose/blob/LCI-only/myApp.js
+
+### R1D56
+Began working on combining my MTG card gallery project with my react shopping cart project to make a deckbuilding tool. https://github.com/jackfriedman616/MTG-Mongoose-React-Deckbuilder
