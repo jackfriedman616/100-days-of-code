@@ -171,3 +171,6 @@ Wrote functions to search cards by some of the properties. https://github.com/ja
 
 ### R1D56
 Began working on combining my MTG card gallery project with my react shopping cart project to make a deckbuilding tool. https://github.com/jackfriedman616/MTG-Mongoose-React-Deckbuilder
+
+### R1D57
+Continued modifying files from my shopping cart project for use in the deckbuilding tool. I also began looking at mongoose and mongoDB documentation that I will need in order to use the card properties for various functions. https://github.com/jackfriedman616/MTG-Mongoose-React-Deckbuilder
