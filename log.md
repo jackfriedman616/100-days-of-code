@@ -565,3 +565,15 @@
 1. https://github.com/jackfriedman616/MTG-Mongoose-React-Deckbuilder
 2. https://github.com/jackfriedman616/shopping-cart
 3. https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/create-many-records-with-model-create
+
+
+### Day 57: December 21, Thursday
+
+**Today's Progress**: Continued modifying files from my shopping cart project to use in the deckbuilding tool. I also began looking through mongoose and mongoDB documentation for help using card properties in functions.
+
+**Thoughts** After reading through some documentation, I don't think I will be able to use JSON for this because it only allows objects to have certain properties. Instead, MongoDB seems like the best tool for the job.
+
+**Link(s) to work**
+1. https://github.com/jackfriedman616/MTG-Mongoose-React-Deckbuilder
+2. https://github.com/jackfriedman616/shopping-cart
+3. https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/create-many-records-with-model-create
