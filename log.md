@@ -577,3 +577,14 @@
 1. https://github.com/jackfriedman616/MTG-Mongoose-React-Deckbuilder
 2. https://github.com/jackfriedman616/shopping-cart
 3. https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/create-many-records-with-model-create
+
+### Day 58: December 29, Friday
+
+**Today's Progress**: Working on getting mongoDB to accept my array of cards but even after reading documentation and changing formatting it still says it won't accept it because of errors.
+
+**Thoughts** Apparently MongoDB is also expecting JSON despite me using my own schema.
+
+**Link(s) to work**
+1. https://github.com/jackfriedman616/MTG-Mongoose-React-Deckbuilder/blob/main/src/myApp.js
+2. https://github.com/jackfriedman616/shopping-cart
+3. https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/create-many-records-with-model-create
