@@ -174,3 +174,6 @@ Began working on combining my MTG card gallery project with my react shopping ca
 
 ### R1D57
 Continued modifying files from my shopping cart project for use in the deckbuilding tool. I also began looking at mongoose and mongoDB documentation that I will need in order to use the card properties for various functions. https://github.com/jackfriedman616/MTG-Mongoose-React-Deckbuilder
+
+### R1D58
+Working on getting mongoDB to accept my array of cards but it says I can't insert the document while there are still errors. https://github.com/jackfriedman616/MTG-Mongoose-React-Deckbuilder/blob/main/src/myApp.js
