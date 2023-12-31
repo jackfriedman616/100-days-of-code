@@ -177,3 +177,6 @@ Continued modifying files from my shopping cart project for use in the deckbuild
 
 ### R1D58
 Working on getting mongoDB to accept my array of cards but it says I can't insert the document while there are still errors. https://github.com/jackfriedman616/MTG-Mongoose-React-Deckbuilder/blob/main/src/myApp.js
+
+### R1D59
+Managed to fix all my json formatting and began working on using my cards and properties for page layout and functions https://github.com/jackfriedman616/MTG-Mongoose-React-Deckbuilder/blob/main/Public/Products.json
