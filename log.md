@@ -588,3 +588,14 @@
 1. https://github.com/jackfriedman616/MTG-Mongoose-React-Deckbuilder/blob/main/src/myApp.js
 2. https://github.com/jackfriedman616/shopping-cart
 3. https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/create-many-records-with-model-create
+
+### Day 59: December 31, Sunday
+
+**Today's Progress**: Managed to fix json formatting and mongoDB accepted arrayOfCards. Then began working on using card properties for page layout and functions.
+
+**Thoughts** Wasn't able to find the syntax to use cards/properties directly from MongoDB in the documentation, but the json file will work for now.
+
+**Link(s) to work**
+1. https://github.com/jackfriedman616/MTG-Mongoose-React-Deckbuilder/blob/main/Public/Products.json
+2. https://github.com/jackfriedman616/shopping-cart
+3. https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/create-many-records-with-model-create
