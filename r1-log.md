@@ -180,3 +180,6 @@ Working on getting mongoDB to accept my array of cards but it says I can't inser
 
 ### R1D59
 Managed to fix all my json formatting and began working on using my cards and properties for page layout and functions https://github.com/jackfriedman616/MTG-Mongoose-React-Deckbuilder/blob/main/Public/Products.json
+
+### R1D60
+Realized the pictures needed to have details for screen readers and started changing cards to fix that. https://github.com/jackfriedman616/MTG-Mongoose-React-Deckbuilder/blob/main/Public/Products.json
