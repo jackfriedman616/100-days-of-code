@@ -609,3 +609,13 @@
 1. https://github.com/jackfriedman616/MTG-Mongoose-React-Deckbuilder/blob/main/Public/Products.json
 2. https://github.com/jackfriedman616/shopping-cart
 3. https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/create-many-records-with-model-create
+
+### Day 61: January 4, Thursday
+
+**Today's Progress**: Made significant changes to let itemDetails and itemCard use the card properties from Products.json
+**Thoughts** I also finished adjusting the picture properties in Products.json, although some cards are missing colorId.
+
+**Link(s) to work**
+1. https://github.com/jackfriedman616/MTG-Mongoose-React-Deckbuilder/blob/main/src/components/ItemDetail.js
+2. https://github.com/jackfriedman616/shopping-cart
+3. https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/create-many-records-with-model-create
