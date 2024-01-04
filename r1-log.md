@@ -183,3 +183,6 @@ Managed to fix all my json formatting and began working on using my cards and pr
 
 ### R1D60
 Realized the pictures needed to have details for screen readers and started changing cards to fix that. https://github.com/jackfriedman616/MTG-Mongoose-React-Deckbuilder/blob/main/Public/Products.json
+
+### R1D61
+Made significant changes to itemDetails, itemCard,and Products.json in order to make the items able to use the card data stored in Products.json. https://github.com/jackfriedman616/MTG-Mongoose-React-Deckbuilder/blob/main/src/components/ItemDetail.js
