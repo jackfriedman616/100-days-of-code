@@ -186,3 +186,6 @@ Realized the pictures needed to have details for screen readers and started chan
 
 ### R1D61
 Made significant changes to itemDetails, itemCard,and Products.json in order to make the items able to use the card data stored in Products.json. https://github.com/jackfriedman616/MTG-Mongoose-React-Deckbuilder/blob/main/src/components/ItemDetail.js
+
+### R1D62
+Bootstrapped my program with react and got it to run, although the categories are wrong and none of the pictures show up. https://github.com/jackfriedman616/mtg-deckbuilder/tree/master
