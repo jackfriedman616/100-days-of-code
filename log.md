@@ -619,3 +619,13 @@
 1. https://github.com/jackfriedman616/MTG-Mongoose-React-Deckbuilder/blob/main/src/components/ItemDetail.js
 2. https://github.com/jackfriedman616/shopping-cart
 3. https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/create-many-records-with-model-create
+
+### Day 62: January 5, Friday
+
+**Today's Progress**: Bootstrapped my mtg app with react and managed to get it to run
+**Thoughts** Categories need to be changed and none of the card images show up.
+
+**Link(s) to work**
+1.  https://github.com/jackfriedman616/mtg-deckbuilder/tree/master
+2. https://github.com/jackfriedman616/shopping-cart
+3. https://github.com/jackfriedman616/MTG-Mongoose-React-Deckbuilder/blob/main/src/components/ItemDetail.js
