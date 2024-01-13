@@ -629,3 +629,13 @@
 1.  https://github.com/jackfriedman616/mtg-deckbuilder/tree/master
 2. https://github.com/jackfriedman616/shopping-cart
 3. https://github.com/jackfriedman616/MTG-Mongoose-React-Deckbuilder/blob/main/src/components/ItemDetail.js
+
+### Day 63: January 13, Saturday
+
+**Today's Progress**: Worked on making card images show and changed some categories.
+**Thoughts** Fixing the images is becoming more complicated than I thought.
+
+**Link(s) to work**
+1.  https://github.com/jackfriedman616/mtg-deckbuilder/tree/master
+2. https://github.com/jackfriedman616/shopping-cart
+3. https://github.com/jackfriedman616/MTG-Mongoose-React-Deckbuilder/blob/main/src/components/ItemDetail.js
