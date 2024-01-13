@@ -189,3 +189,6 @@ Made significant changes to itemDetails, itemCard,and Products.json in order to 
 
 ### R1D62
 Bootstrapped my program with react and got it to run, although the categories are wrong and none of the pictures show up. https://github.com/jackfriedman616/mtg-deckbuilder/tree/master
+
+### R1D63
+Continued working to fix errors causing the cards to not show up. https://github.com/jackfriedman616/mtg-deckbuilder/tree/master
