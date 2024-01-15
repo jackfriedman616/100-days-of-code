@@ -639,3 +639,13 @@
 1.  https://github.com/jackfriedman616/mtg-deckbuilder/tree/master
 2. https://github.com/jackfriedman616/shopping-cart
 3. https://github.com/jackfriedman616/MTG-Mongoose-React-Deckbuilder/blob/main/src/components/ItemDetail.js
+
+### Day 64: January 15, Monday
+
+**Today's Progress**: Discovered that the entire object is missing, not just the card images.
+**Thoughts** Still figuring out a solution.
+
+**Link(s) to work**
+1.  https://github.com/jackfriedman616/mtg-deckbuilder/tree/master
+2. https://github.com/jackfriedman616/shopping-cart
+3. https://github.com/jackfriedman616/MTG-Mongoose-React-Deckbuilder/blob/main/src/components/ItemDetail.js
