@@ -192,3 +192,6 @@ Bootstrapped my program with react and got it to run, although the categories ar
 
 ### R1D63
 Continued working to fix errors causing the cards to not show up. https://github.com/jackfriedman616/mtg-deckbuilder/tree/master
+
+### R1D64
+Discovered that not only are the images not showing, the objects just aren't there. still figuring out how to solve that. https://github.com/jackfriedman616/mtg-deckbuilder/tree/master
